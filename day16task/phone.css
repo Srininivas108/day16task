@@ -1,0 +1,43 @@
+.about{
+    flex-direction: column-reverse;
+    margin: 100px 0px;
+    margin-bottom: 0px;
+    margin-top: 130px;
+}
+.navin{
+    margin-bottom: 26px;
+    padding-left: 0px;
+    margin-left: 0px;
+    font-size: 1.2rem;
+}
+#name{
+    padding: 0px;
+   align-items: unset;
+    
+}
+.h-first{
+    font-size: 2.5rem;
+}
+.award{
+    flex-wrap: wrap;
+    margin: 50px 100px;
+}
+.poemsong{
+    flex-wrap: wrap;
+    margin: 25px;
+}
+.last{
+    flex-direction: column;
+}
+h2{
+    font-size: 1,5rem;
+    margin-left: 20px;
+}
+.botton{
+    margin-bottom: 28px;
+
+}
+.footbox{
+    margin:20px 10px;
+    font-size: 1rem ;
+}
